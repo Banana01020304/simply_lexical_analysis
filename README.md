@@ -1,5 +1,5 @@
 # simply_lexical_analysis
-simply lexical analysis made with python<br/>
+simply lexical analysis made with python and C# <br/>
 <h1>Ex:</h1>
 "1+1=2"  is <br/>
 ['dig', '+', 'dig', '=', 'dig', '\n'] <br/>
